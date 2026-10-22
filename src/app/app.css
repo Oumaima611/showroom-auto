@@ -1,0 +1,16 @@
+.car-details {
+  margin: 0 30px 40px 30px;
+  padding: 20px;
+  background-color: white;
+  border-left: 6px solid rgb(43, 220, 226);
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.15);
+}
+
+.car-details h2 {
+  margin-top: 0;
+}
+
+.car-details p {
+  line-height: 1.7;
+}
